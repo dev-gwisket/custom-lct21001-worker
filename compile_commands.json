@@ -1,0 +1,132 @@
+[
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/CDC.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/CDC.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial0.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial0.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial1.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial1.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial2.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial2.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/HardwareSerial3.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/HardwareSerial3.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/IPAddress.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/IPAddress.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/PluggableUSB.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/PluggableUSB.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Print.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/Print.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Stream.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/Stream.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/Tone.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/Tone.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/USBCore.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/USBCore.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/WInterrupts.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/WInterrupts.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WMath.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/WMath.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/WString.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/WString.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/abi.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/abi.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/hooks.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/hooks.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/main.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/main.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-g++ -o .pio/build/nanoatmega328/FrameworkArduino/new.cpp.o -c -fno-exceptions -fno-threadsafe-statics -fpermissive -std=gnu++11 -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/new.cpp"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_analog.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_analog.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_digital.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_digital.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-as -mmcu=atmega328p -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.S.o /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.S"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_pulse.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_pulse.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/FrameworkArduino/wiring_shift.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs /home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino/wiring_shift.c"
+    },
+    {
+        "command": "/home/gwisket/.platformio/packages/toolchain-atmelavr/bin/avr-gcc -o .pio/build/nanoatmega328/src/main.c.o -c -std=gnu11 -fno-fat-lto-objects -mmcu=atmega328p -Os -Wall -ffunction-sections -fdata-sections -flto -DPLATFORMIO=60105 -DARDUINO_AVR_NANO -DF_CPU=16000000L -DARDUINO_ARCH_AVR -DARDUINO=10808 -Iinclude -Isrc -I/home/gwisket/.platformio/packages/framework-arduino-avr/cores/arduino -I/home/gwisket/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs src/main.c",
+        "directory": "/home/gwisket/Projects/custom-lct21001-worker",
+        "file": "/home/gwisket/Projects/custom-lct21001-worker/src/main.c"
+    }
+]
